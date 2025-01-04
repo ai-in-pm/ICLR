@@ -50,6 +50,13 @@ The demo will:
 3. Generate semantic prior analysis
 4. Create visualizations in the `examples/outputs` directory
 
+![image](https://github.com/user-attachments/assets/d8decd84-8c0a-460c-9f7d-9024c2b8462f)
+![image](https://github.com/user-attachments/assets/c4108b95-c29b-4d65-9052-1d5954b07680)
+![image](https://github.com/user-attachments/assets/92c3bcf3-ed94-44aa-a7ea-0b8d33b726df)
+
+
+
+
 ## Project Structure
 
 ```
